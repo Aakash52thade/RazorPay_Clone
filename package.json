@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.2.4",
+    "vite": "^4.0.4"
+  },
+  "dependencies": {
+    "feather": "^0.0.5"
+  },
+  "name": "razorpayclone2",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aakash52thade/Razorpay_Clone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aakash52thade/Razorpay_Clone/issues"
+  },
+  "homepage": "https://github.com/Aakash52thade/Razorpay_Clone#readme",
+  "description": ""
+}
